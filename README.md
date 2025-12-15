@@ -1,7 +1,7 @@
 # arima-sales-trend-prediction
 # Quarterly Revenue Forecasting Using ARIMA
 
-![Revenue prediction for 2026](Quarterly Revenue Forecasting .ipynb)
+![Revenue prediction for 2026](quarterly_revenue_forecast.png)
 
 ## Project Overview
 This project forecasts quarterly revenue for a fintech company using time-series analysis and ARIMA modeling. The goal is to provide management with data-driven revenue expectations for the upcoming year.
