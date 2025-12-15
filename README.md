@@ -36,10 +36,6 @@ This project forecasts quarterly revenue for a fintech company using time-series
 └── README.md
 
 
-## 🔒 Data Privacy
-Revenue figures have been anonymized and scaled for confidentiality.
 
-## 🚀 Future Improvements
-- Compare ARIMA vs Prophet
-- Add exogenous variables (SARIMAX)
-- Monthly-level forecasting
+## Challenges
+- Quartely is too small so I changed to Monthly-level forecasting
