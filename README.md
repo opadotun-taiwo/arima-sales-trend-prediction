@@ -1,4 +1,3 @@
-# arima-sales-trend-prediction
 # Quarterly Revenue Forecasting Using ARIMA
 
 ![Revenue prediction for 2026](quarterly_revenue_forecast.png)
@@ -23,14 +22,14 @@ This project forecasts quarterly revenue for a fintech company using time-series
 - Strong quarterly seasonality exists
 - Forecast indicates continued growth with manageable volatility
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib & Seaborn
 - Statsmodels
 - Jupyter Notebook
 
-## 📁 Project Structure
+##  Project Structure
 ├── arima_data.csv
 ├── quarterly_revenue_forecast.ipynb
 └── README.md
@@ -38,7 +37,7 @@ This project forecasts quarterly revenue for a fintech company using time-series
 
 
 ## Challenges
-- Quartely is too small so I changed to Monthly-level forecasting
+- Quarterly date is too small so I changed to Monthly-level forecasting to give fiures that I can communicate to management
 
 ![Revenue prediction for 2026](Month-over-Month Revenue Growth.png)
 
