@@ -3,7 +3,7 @@
 ![Revenue prediction for 2026](quarterly_revenue_forecast.png)
 
 ## Project Overview
-This project forecasts quarterly revenue for a fintech company using time-series analysis and ARIMA modeling. The goal is to provide management with data-driven revenue expectations for the upcoming year.
+This project forecasts quarterly revenue for a fintech company using time-series analysis and SARIMA modeling. The goal is to provide management with data-driven revenue expectations for the upcoming year.
 
 ## Business Objective
 - Predict next year’s quarterly revenue
@@ -18,9 +18,9 @@ This project forecasts quarterly revenue for a fintech company using time-series
 5. Forecasting with confidence intervals
 
 ## Key Insights
-- Revenue shows consistent long-term growth
+- Revenue shows consistent long-term reduced growth
 - Strong quarterly seasonality exists
-- Forecast indicates continued growth with manageable volatility
+- Forecast indicates reduced growth with volatility
 
 ## Tools Used
 - Python
@@ -37,7 +37,7 @@ This project forecasts quarterly revenue for a fintech company using time-series
 
 
 ## Challenges
-- Quarterly date is too small so I changed to Monthly-level forecasting to give fiures that I can communicate to management
+- Quarterly date is too small so I changed to Monthly-level forecasting to give figures that I can communicate to management
 
 ![Revenue prediction for 2026](Month-over-Month Revenue Growth.png)
 
