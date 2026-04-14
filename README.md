@@ -11,7 +11,7 @@ This project forecasts quarterly revenue for a fintech company using time-series
 - Support budgeting and strategic planning
 
 ## Methodology
-1. Data aggregation at quarterly level
+1. Data aggregation at monthly level
 2. Time-series exploratory data analysis (EDA)
 3. Stationarity and autocorrelation testing
 4. Seasonal ARIMA (SARIMA) modeling
